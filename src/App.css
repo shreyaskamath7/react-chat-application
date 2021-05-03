@@ -78,15 +78,17 @@
   }
   
   .chat-title-container {
-    width: calc(100% - 36px);
+    width: calc(100% - 6px);
     padding: 18px;
     text-align: center;
+    background-color:#d0c5df;
   }
   
   .chat-title {
     color: #7554a0;
     font-weight: 800;
     font-size: 24px;
+    
   }
   
   .chat-subtitle {
